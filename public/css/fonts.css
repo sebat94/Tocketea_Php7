@@ -1,0 +1,54 @@
+/*-- RALEWAY LIGHT --*/
+
+@font-face {
+	font-family:"Raleway-Light"; /*Nombre con el que lo vamos a invocar*/
+	src: url(../fonts/raleway/Raleway-Light.ttf);
+}
+@font-face {
+	font-family:"Raleway-Light-Italic";
+	src: url(../fonts/raleway/Raleway-LightItalic.ttf);
+}
+
+/*-- RALEWAY REGULAR --*/
+
+@font-face {
+	font-family:"Raleway-Regular";
+	src: url(../fonts/raleway/Raleway-Regular.ttf);
+}
+@font-face {
+	font-family:"Raleway-Regular-Italic"; /* No está bien linkada */
+	src: url(../fonts/raleway/Raleway-Light.ttf);
+}
+
+/*-- RALEWAY MEDIUM --*/
+
+@font-face {
+	font-family:"Raleway-Medium";
+	src: url(../fonts/raleway/Raleway-Medium.ttf);
+}
+@font-face {
+	font-family:"Raleway-Medium-Italic";
+	src: url(../fonts/raleway/Raleway-MediumItalic.ttf);
+}
+
+/*-- RALEWAY SEMI-BOLD --*/
+
+@font-face {
+	font-family:"Raleway-SemiBold";
+	src: url(../fonts/raleway/Raleway-SemiBold.ttf);
+}
+@font-face {
+	font-family:"Raleway-SemiBold-Italic";
+	src: url(../fonts/raleway/Raleway-SemiBoldItalic.ttf);
+}
+
+/*-- RALEWAY SEMI-BOLD --*/
+
+@font-face {
+	font-family:"Raleway-Bold";
+	src: url(../fonts/raleway/Raleway-Bold.ttf);
+}
+@font-face {
+	font-family:"Raleway-Bold-Italic";
+	src: url(../fonts/raleway/Raleway-BoldItalic.ttf);
+}

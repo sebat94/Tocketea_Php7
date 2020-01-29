@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3a0031e-2dd2-4af5-86cc-b48edf48f2f5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/app/views/modules/detalles_evento.view.php" afterPath="$PROJECT_DIR$/app/views/modules/detalles_evento.view.php" />
+      <change beforePath="$PROJECT_DIR$/public/.htaccess" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change beforePath="$PROJECT_DIR$/public/css/global.css" afterPath="$PROJECT_DIR$/public/css/global.css" />
+      <change beforePath="$PROJECT_DIR$/public/img/evento/1515324243_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/img/evento/min_1515324243_2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/public/js/global.js" afterPath="$PROJECT_DIR$/public/js/global.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>select</find>
+      <find>recibido_por</find>
+      <find>hidde</find>
+      <find>submitForm</find>
+      <find>subeIma</find>
+      <find>modal_preguntar_log</find>
+      <find>updateOne</find>
+      <find>detectarIdiomaNavegador</find>
+      <find>hora</find>
+      <find>mostrarEventoPorId</find>
+      <find>contenido_registro</find>
+      <find>btn_ir_registro</find>
+      <find>join</find>
+      <find>getImagen</find>
+      <find>subeI</find>
+      <find>gestionarImagenEvento</find>
+      <find>\\</find>
+      <find>setIma</find>
+      <find>subeImagen</find>
+      <find>JOIN</find>
+      <find>.dropdown</find>
+      <find>.cabecera_der nav ul li:hover:not(.menu_activo) .dropdown span</find>
+      <find>620px</find>
+      <find>0 15px</find>
+      <find>.cabecera_der nav ul li a</find>
+      <find>$regExpText</find>
+      <find>dropdown</find>
+      <find>getEnlaceExterno</find>
+      <find>620</find>
+      <find>fa-sig</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/js/mis_eventos.js" />
+        <option value="$PROJECT_DIR$/public/js/gestion_usuarios.js" />
+        <option value="$PROJECT_DIR$/core/Response.php" />
+        <option value="$PROJECT_DIR$/public/js/index.js" />
+        <option value="$PROJECT_DIR$/public/js/comprar_entradas.js" />
+        <option value="$PROJECT_DIR$/public/js/crud.js" />
+        <option value="$PROJECT_DIR$/gettext/gettext.php" />
+        <option value="$PROJECT_DIR$/gettext/idiomas.php" />
+        <option value="$PROJECT_DIR$/app/views/layout.view.php" />
+        <option value="$PROJECT_DIR$/app/controllers/PagesController.php" />
+        <option value="$PROJECT_DIR$/locale/en_GB/LC_MESSAGES/en_GB.mo" />
+        <option value="$PROJECT_DIR$/locale/en_GB/LC_MESSAGES/en_GB.po" />
+        <option value="$PROJECT_DIR$/app/views/modules/navegacion_sin_logear.view.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/modal_logeado.view.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/form_evento.view.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/comprar_entradas.view.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/eventos.view.php" />
+        <option value="$PROJECT_DIR$/app/controllers/IdiomaController.php" />
+        <option value="$PROJECT_DIR$/app/routes.php" />
+        <option value="$PROJECT_DIR$/app/controllers/MensajesController.php" />
+        <option value="$PROJECT_DIR$/public/js/mensajes.js" />
+        <option value="$PROJECT_DIR$/app/views/modules/entradas.view.php" />
+        <option value="$PROJECT_DIR$/app/controllers/AuthController.php" />
+        <option value="$PROJECT_DIR$/app/helpers/Captcha.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/captcha.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/controllers/UsuarioController.php" />
+        <option value="$PROJECT_DIR$/public/js/login_registro.js" />
+        <option value="$PROJECT_DIR$/public/img/web/captcha.php" />
+        <option value="$PROJECT_DIR$/core/database/QueryBuilder.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/gestion_usuarios.view.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/mensajes.view.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/index.view.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/acceder.view.php" />
+        <option value="$PROJECT_DIR$/app/config.php" />
+        <option value="$PROJECT_DIR$/core/Router.php" />
+        <option value="$PROJECT_DIR$/app/entities/Evento.php" />
+        <option value="$PROJECT_DIR$/app/entities/Mensaje.php" />
+        <option value="$PROJECT_DIR$/app/entities/Usuario.php" />
+        <option value="$PROJECT_DIR$/app/helpers/SubirImagen.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/navegacion_administrador.view.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/navegacion_comprador.view.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/navegacion_gestor.view.php" />
+        <option value="$PROJECT_DIR$/app/controllers/EventoController.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/nosotros.view.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/perfil.view.php" />
+        <option value="$PROJECT_DIR$/app/views/modules/detalles_evento.view.php" />
+        <option value="$PROJECT_DIR$/public/css/global.css" />
+        <option value="$PROJECT_DIR$/public/js/global.js" />
+        <option value="$PROJECT_DIR$/public/.htaccess" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" max_simultaneous_connections="20" zd_debug_port="80" />
+  <component name="PhpServers">
+    <servers>
+      <server host="PhpStorm 2017.2.4" id="340e435f-c09b-4f01-91e1-7e6b75782b9c" name="PhpStorm 2017.2.4" port="63342" />
+      <server host="localhost" id="90523cff-c044-410b-ac2c-17ee7550c102" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="422" />
+    <option name="width" value="1503" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpLanguageLevelInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="entities" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="helpers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="evento" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="perfil" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tocketea" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/js" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\tocketea\public\img\perfil" />
+      <recent name="C:\xampp\htdocs\tocketea\public\img\web" />
+      <recent name="C:\xampp\htdocs\tocketea\locale" />
+      <recent name="C:\xampp\htdocs\tocketea\app\exceptions" />
+      <recent name="C:\xampp\htdocs\videoclub\app\views\modules" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\tocketea\public\img\perfil" />
+      <recent name="C:\xampp\htdocs\tocketea\public\img\evento" />
+      <recent name="C:\xampp\htdocs\tocketea\public\img\web" />
+      <recent name="C:\xampp\htdocs\tocketea\app\controllers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.tocketea">
+    <configuration name="tocketea" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost/tocketea" />
+    <configuration name="login_registro.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="login_registro.js" working-dir="$PROJECT_DIR$/public/js" />
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost" start_url="http://localhost/tocketea" />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.tocketea" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.login_registro.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.login_registro.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Daniel\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3a0031e-2dd2-4af5-86cc-b48edf48f2f5" name="Default" comment="" />
+      <created>1511438303688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511438303688</updated>
+      <workItem from="1511438305997" duration="2374000" />
+      <workItem from="1511472763929" duration="1276000" />
+      <workItem from="1511474331345" duration="5249000" />
+      <workItem from="1511508672301" duration="271000" />
+      <workItem from="1511509136514" duration="3000" />
+      <workItem from="1511510976966" duration="5958000" />
+      <workItem from="1511569459165" duration="3066000" />
+      <workItem from="1511624824296" duration="545000" />
+      <workItem from="1511698368737" duration="2000" />
+      <workItem from="1511700952161" duration="2000" />
+      <workItem from="1511732189616" duration="6000" />
+      <workItem from="1511738465464" duration="4000" />
+      <workItem from="1511822990681" duration="581000" />
+      <workItem from="1511831150720" duration="303000" />
+      <workItem from="1511997216256" duration="3430000" />
+      <workItem from="1512000771138" duration="53000" />
+      <workItem from="1512000834588" duration="1319000" />
+      <workItem from="1512002469958" duration="701000" />
+      <workItem from="1512032641245" duration="119000" />
+      <workItem from="1512034409184" duration="2304000" />
+      <workItem from="1512037955030" duration="298000" />
+      <workItem from="1512038289981" duration="172000" />
+      <workItem from="1512060761360" duration="19886000" />
+      <workItem from="1512089985760" duration="5255000" />
+      <workItem from="1512126541203" duration="1218000" />
+      <workItem from="1512170038110" duration="475000" />
+      <workItem from="1512171275446" duration="7325000" />
+      <workItem from="1512182304205" duration="2238000" />
+      <workItem from="1512210940367" duration="3971000" />
+      <workItem from="1512226348265" duration="462000" />
+      <workItem from="1512227129413" duration="1688000" />
+      <workItem from="1512228868528" duration="1044000" />
+      <workItem from="1512230144470" duration="688000" />
+      <workItem from="1512233441815" duration="1115000" />
+      <workItem from="1512242727867" duration="6879000" />
+      <workItem from="1512303201211" duration="118000" />
+      <workItem from="1512303363500" duration="8824000" />
+      <workItem from="1512314453575" duration="402000" />
+      <workItem from="1512322356741" duration="1504000" />
+      <workItem from="1512323905156" duration="1191000" />
+      <workItem from="1512325122235" duration="427000" />
+      <workItem from="1512325561825" duration="889000" />
+      <workItem from="1512326466807" duration="317000" />
+      <workItem from="1512326849820" duration="1663000" />
+      <workItem from="1512328580163" duration="14268000" />
+      <workItem from="1512428004511" duration="12525000" />
+      <workItem from="1512440559066" duration="2501000" />
+      <workItem from="1512443197904" duration="211000" />
+      <workItem from="1512461667189" duration="14748000" />
+      <workItem from="1512514184279" duration="21351000" />
+      <workItem from="1512535751740" duration="83000" />
+      <workItem from="1512562991989" duration="843000" />
+      <workItem from="1512570757715" duration="9393000" />
+      <workItem from="1512586813126" duration="12754000" />
+      <workItem from="1512633720655" duration="51000" />
+      <workItem from="1512633785903" duration="13017000" />
+      <workItem from="1512650046236" duration="2489000" />
+      <workItem from="1512652835956" duration="8366000" />
+      <workItem from="1512672272763" duration="4072000" />
+      <workItem from="1512719445217" duration="45257000" />
+      <workItem from="1512781216553" duration="525000" />
+      <workItem from="1512829331310" duration="11752000" />
+      <workItem from="1512841388059" duration="233000" />
+      <workItem from="1512852029949" duration="15924000" />
+      <workItem from="1512869144766" duration="305000" />
+      <workItem from="1512901420492" duration="10743000" />
+      <workItem from="1512913829892" duration="43000" />
+      <workItem from="1513006841639" duration="12138000" />
+      <workItem from="1513026190518" duration="11488000" />
+      <workItem from="1513037825772" duration="1087000" />
+      <workItem from="1513042911091" duration="193000" />
+      <workItem from="1513077051994" duration="3397000" />
+      <workItem from="1513123455670" duration="7149000" />
+      <workItem from="1513163119955" duration="3232000" />
+      <workItem from="1513201830264" duration="3918000" />
+      <workItem from="1513236920014" duration="18105000" />
+      <workItem from="1513279784657" duration="23312000" />
+      <workItem from="1513332852755" duration="16976000" />
+      <workItem from="1513355189037" duration="1861000" />
+      <workItem from="1513373187412" duration="2238000" />
+      <workItem from="1513378833417" duration="7000" />
+      <workItem from="1513379512506" duration="13062000" />
+      <workItem from="1513420404507" duration="6772000" />
+      <workItem from="1513434817226" duration="2088000" />
+      <workItem from="1513455810634" duration="6154000" />
+      <workItem from="1513462093340" duration="14000" />
+      <workItem from="1513531559175" duration="1241000" />
+      <workItem from="1513545414563" duration="14189000" />
+      <workItem from="1513632447829" duration="7000" />
+      <workItem from="1513637769566" duration="9472000" />
+      <workItem from="1513647876986" duration="163000" />
+      <workItem from="1513682065368" duration="5739000" />
+      <workItem from="1513712089918" duration="11559000" />
+      <workItem from="1513813681401" duration="2000" />
+      <workItem from="1513860741772" duration="14181000" />
+      <workItem from="1513879481682" duration="21316000" />
+      <workItem from="1513943694378" duration="7384000" />
+      <workItem from="1513982405627" duration="143000" />
+      <workItem from="1513985630453" duration="15000" />
+      <workItem from="1514038073629" duration="5569000" />
+      <workItem from="1514047470910" duration="4562000" />
+      <workItem from="1514119232012" duration="1000" />
+      <workItem from="1514317539081" duration="6000" />
+      <workItem from="1514319288417" duration="6000" />
+      <workItem from="1514341790530" duration="4000" />
+      <workItem from="1514371029524" duration="14000" />
+      <workItem from="1514377915257" duration="12834000" />
+      <workItem from="1514394590140" duration="9245000" />
+      <workItem from="1514405662242" duration="6778000" />
+      <workItem from="1514545367513" duration="4000" />
+      <workItem from="1514580714269" duration="7824000" />
+      <workItem from="1514625556166" duration="19668000" />
+      <workItem from="1514648565945" duration="617000" />
+      <workItem from="1514718273481" duration="4532000" />
+      <workItem from="1514722833643" duration="13000" />
+      <workItem from="1514722885301" duration="943000" />
+      <workItem from="1514723929528" duration="1276000" />
+      <workItem from="1514727108019" duration="16798000" />
+      <workItem from="1514794976570" duration="10150000" />
+      <workItem from="1514806258554" duration="3397000" />
+      <workItem from="1514809892613" duration="2010000" />
+      <workItem from="1514811965085" duration="18000" />
+      <workItem from="1514812011055" duration="309000" />
+      <workItem from="1514812565619" duration="1989000" />
+      <workItem from="1514814793486" duration="651000" />
+      <workItem from="1514815585747" duration="206000" />
+      <workItem from="1514822710088" duration="18000" />
+      <workItem from="1514825114491" duration="536000" />
+      <workItem from="1514826172101" duration="4000" />
+      <workItem from="1514826502594" duration="51000" />
+      <workItem from="1514826821429" duration="7000" />
+      <workItem from="1514839546015" duration="8000" />
+      <workItem from="1514847225442" duration="12000" />
+      <workItem from="1514847790536" duration="22000" />
+      <workItem from="1514847835510" duration="63000" />
+      <workItem from="1514848040955" duration="13000" />
+      <workItem from="1514851652092" duration="1000" />
+      <workItem from="1514992150135" duration="42000" />
+      <workItem from="1515070838290" duration="48000" />
+      <workItem from="1515090257445" duration="53000" />
+      <workItem from="1515090635800" duration="11902000" />
+      <workItem from="1515117401890" duration="320000" />
+      <workItem from="1515169097027" duration="986000" />
+      <workItem from="1515319593645" duration="2005000" />
+      <workItem from="1515321705937" duration="2813000" />
+      <workItem from="1515325314552" duration="721000" />
+      <workItem from="1515326230334" duration="4615000" />
+      <workItem from="1515332841474" duration="788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="650123000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39894179" sideWeight="0.3203125" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.6796875" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910052" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="27" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="tocketea" type="b2602c69:ProjectViewProjectNode" />
+        <item name="tocketea" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/img/perfil/min_1514811126_18.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/img/perfil/min_1514811134_11.jpg" />
+    <entry file="file://$PROJECT_DIR$/app/views/modules/mensajes.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="65" column="47" lean-forward="false" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/gestion_usuarios.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="42" column="17" lean-forward="false" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/PagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/evento/1514810937_3.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/img/evento/min_1514810937_3.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/img/evento/1514813112_candy-1893297_1280.png" />
+    <entry file="file://$PROJECT_DIR$/public/img/evento/min_1514813112_candy-1893297_1280.png" />
+    <entry file="file://$PROJECT_DIR$/public/img/evento/1514813441_2.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/img/perfil/1514813792_bauble-1814941_1920.png" />
+    <entry file="file://$PROJECT_DIR$/app/views/modules/eventos.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="85" column="18" lean-forward="true" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/index.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="73" column="50" lean-forward="false" selection-start-line="73" selection-start-column="50" selection-end-line="73" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/acceder.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="19" column="98" lean-forward="false" selection-start-line="19" selection-start-column="98" selection-end-line="19" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/evento/default.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/evento/min_default.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/perfil/default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/perfil/min_default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/web/captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/UsuarioController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="866">
+          <caret line="248" column="71" lean-forward="false" selection-start-line="248" selection-start-column="70" selection-end-line="248" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/MensajesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="126" column="34" lean-forward="false" selection-start-line="126" selection-start-column="34" selection-end-line="126" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/IdiomaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/database/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/tocketea-error.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="38" column="68" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/crud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/entities/Evento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="278" column="41" lean-forward="false" selection-start-line="278" selection-start-column="41" selection-end-line="278" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/entities/Mensaje.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2928">
+          <caret line="122" column="45" lean-forward="false" selection-start-line="122" selection-start-column="45" selection-end-line="122" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/SubirImagen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="217" column="54" lean-forward="false" selection-start-line="217" selection-start-column="54" selection-end-line="217" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/database/QueryBuilder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="595" column="26" lean-forward="false" selection-start-line="595" selection-start-column="22" selection-end-line="595" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="22" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/navegacion_comprador.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="120" lean-forward="false" selection-start-line="13" selection-start-column="120" selection-end-line="13" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/navegacion_gestor.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="120" lean-forward="false" selection-start-line="13" selection-start-column="120" selection-end-line="13" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/navegacion_administrador.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/EventoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="381" column="76" lean-forward="false" selection-start-line="381" selection-start-column="76" selection-end-line="381" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/nosotros.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/evento/1515324243_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/entities/Usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3408">
+          <caret line="142" column="38" lean-forward="false" selection-start-line="142" selection-start-column="38" selection-end-line="142" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/perfil.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/navegacion_sin_logear.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="57" lean-forward="false" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="3529" column="40" lean-forward="true" selection-start-line="3529" selection-start-column="40" selection-end-line="3529" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/modules/detalles_evento.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="103" lean-forward="false" selection-start-line="37" selection-start-column="103" selection-end-line="37" selection-end-column="103" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/evento/min_1515324243_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tocketea.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4176">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

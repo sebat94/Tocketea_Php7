@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tocketea\n"
+"POT-Creation-Date: 2017-12-30 16:39+0100\n"
+"PO-Revision-Date: 2017-12-30 16:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: Daniel\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _translate\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: app/views/modules/acceder.view.php:18
+msgid "&#191;No tienes una cuenta&#63;"
+msgstr "Don&#39;t you have an account yet&#63;"
+
+#: app/views/modules/acceder.view.php:19
+msgid ""
+"Date del alta ahora y disfruta de todas las ventajas que te ofrecemos en "
+"Tocketea."
+msgstr ""
+"Sign up now and enjoy all the advantages that we offer you in Tocketea."
+
+#: app/views/modules/acceder.view.php:25
+msgid "&#191;Tienes una cuenta&#63;"
+msgstr "Have you an account&#63;"
+
+#: app/views/modules/acceder.view.php:26
+msgid ""
+"A que esperas para entrar y seguir disfrutando de tus eventos favoritos en "
+"Tocketea."
+msgstr ""
+"What do you expect to enter and continue enjoying your favorite events in "
+"Tocketea."
+
+#: app/views/modules/acceder.view.php:35
+#: app/views/modules/modal_logeado.view.php:5
+msgid "Login"
+msgstr "Log in"
+
+#: app/views/modules/acceder.view.php:53 app/views/modules/acceder.view.php:114
+#: app/views/modules/perfil.view.php:25
+msgid "Contrase&ntilde;a"
+msgstr "Password"
+
+#: app/views/modules/acceder.view.php:58
+msgid "Recuperar contrase&ntilde;a"
+msgstr "Recover password"
+
+#: app/views/modules/acceder.view.php:62
+msgid "Reg&iacute;strate"
+msgstr "Sign up"
+
+#: app/views/modules/acceder.view.php:70
+#: app/views/modules/modal_logeado.view.php:8
+msgid "Registro"
+msgstr "Sign up"
+
+#: app/views/modules/acceder.view.php:95
+msgid "Nombre completo"
+msgstr "Full name"
+
+#: app/views/modules/acceder.view.php:101
+#: app/views/modules/form_evento.view.php:92
+msgid "Provincia"
+msgstr "Province"
+
+#: app/views/modules/acceder.view.php:118 app/views/modules/perfil.view.php:26
+msgid "Repetir contrase&ntilde;a"
+msgstr "Repeat password"
+
+#: app/views/modules/acceder.view.php:123
+msgid "REGISTRARME"
+msgstr "REGISTER ME"
+
+#: app/views/modules/acceder.view.php:126
+msgid "LOGIN"
+msgstr "LOG IN"
+
+#: app/views/modules/comprar_entradas.view.php:20
+msgid "Uds. Tickets"
+msgstr "Uts. Tickets"
+
+#: app/views/modules/comprar_entradas.view.php:27
+#: app/views/modules/detalles_evento.view.php:23
+#: app/views/modules/index.view.php:83
+msgid "Comprar entradas"
+msgstr "Buy tickets"
+
+#: app/views/modules/detalles_evento.view.php:14
+msgid "Entradas restantes"
+msgstr "Remaining tickets"
+
+#: app/views/modules/detalles_evento.view.php:18
+msgid "&#191;Cuándo puedes comprar tus entradas&#63;"
+msgstr "When can you buy your tickets&#63;"
+
+#: app/views/modules/detalles_evento.view.php:19
+msgid "Desde el"
+msgstr "From"
+
+#: app/views/modules/detalles_evento.view.php:19
+msgid "Hasta el"
+msgstr "To"
+
+#: app/views/modules/entradas.view.php:8
+#: app/views/modules/navegacion_administrador.view.php:19
+#: app/views/modules/navegacion_comprador.view.php:18
+#: app/views/modules/navegacion_gestor.view.php:19
+msgid "Mis entradas"
+msgstr "My tickets"
+
+#: app/views/modules/entradas.view.php:20 app/views/modules/eventos.view.php:57
+msgid "T&iacute;tulo"
+msgstr "Title"
+
+#: app/views/modules/entradas.view.php:23
+msgid "Fecha"
+msgstr "Date"
+
+#: app/views/modules/entradas.view.php:26
+msgid "Hora"
+msgstr "Hour"
+
+#: app/views/modules/entradas.view.php:29
+msgid "Entradas"
+msgstr "Tickets"
+
+#: app/views/modules/entradas.view.php:32 app/views/modules/eventos.view.php:66
+msgid "Importe"
+msgstr "Amount"
+
+#: app/views/modules/entradas.view.php:35 app/views/modules/eventos.view.php:69
+msgid "Ver"
+msgstr "View"
+
+#: app/views/modules/eventos.view.php:6
+#: app/views/modules/form_evento.view.php:5
+#: app/views/modules/form_evento.view.php:182
+msgid "Crear evento"
+msgstr "Create event"
+
+#: app/views/modules/eventos.view.php:12
+msgid "Eventos creados"
+msgstr "Events created"
+
+#: app/views/modules/eventos.view.php:18
+#: app/views/modules/gestion_usuarios.view.php:14
+msgid "Filtrar por"
+msgstr "Filter by"
+
+#: app/views/modules/eventos.view.php:20
+msgid "Todas las categor&iacute;as"
+msgstr "All Categories"
+
+#: app/views/modules/eventos.view.php:32
+msgid "Eventos futuros"
+msgstr "Future events"
+
+#: app/views/modules/eventos.view.php:35
+msgid "Eventos Pasados"
+msgstr "Past events"
+
+#: app/views/modules/eventos.view.php:42 app/views/modules/index.view.php:42
+msgid "Buscar eventos"
+msgstr "Search events"
+
+#: app/views/modules/eventos.view.php:60
+msgid "Precio"
+msgstr "Price"
+
+#: app/views/modules/eventos.view.php:63
+msgid "Ventas"
+msgstr "Sales"
+
+#: app/views/modules/eventos.view.php:72
+msgid "Editar"
+msgstr "Edit"
+
+#: app/views/modules/eventos.view.php:75
+#: app/views/modules/gestion_usuarios.view.php:44
+msgid "Borrar"
+msgstr "Delete"
+
+#: app/views/modules/form_evento.view.php:12
+msgid "Título"
+msgstr "Title"
+
+#: app/views/modules/form_evento.view.php:23
+msgid "Categor&iacute;a"
+msgstr "Categories"
+
+#: app/views/modules/form_evento.view.php:44
+msgid "Venta de entradas desde"
+msgstr "Sale of tickets from"
+
+#: app/views/modules/form_evento.view.php:55
+msgid "Hasta"
+msgstr "To"
+
+#: app/views/modules/form_evento.view.php:68
+msgid "Fecha celebraci&oacute;n"
+msgstr "Celebration date"
+
+#: app/views/modules/form_evento.view.php:79
+msgid "Hora celebraci&oacute;n"
+msgstr "Celebration time"
+
+#: app/views/modules/form_evento.view.php:111
+msgid "Direcci&oacute;n"
+msgstr "Address"
+
+#: app/views/modules/form_evento.view.php:124
+msgid "Total de entradas"
+msgstr "Total tickets"
+
+#: app/views/modules/form_evento.view.php:135
+msgid "Precio entradas"
+msgstr "Price tickets"
+
+#: app/views/modules/form_evento.view.php:148
+msgid "Imagen"
+msgstr "Image"
+
+#: app/views/modules/form_evento.view.php:159
+msgid "Enlace externo"
+msgstr "External link"
+
+#: app/views/modules/form_evento.view.php:171
+msgid "Descripción evento"
+msgstr "Event description"
+
+#: app/views/modules/form_evento.view.php:182
+msgid "Actualizar evento"
+msgstr "Update event"
+
+#: app/views/modules/gestion_usuarios.view.php:9
+msgid "Gestión de usuarios"
+msgstr "User management"
+
+#: app/views/modules/gestion_usuarios.view.php:16
+msgid "Todos los usuarios"
+msgstr "All users"
+
+#: app/views/modules/gestion_usuarios.view.php:17
+#: app/views/modules/gestion_usuarios.view.php:57
+msgid "Comprador"
+msgstr "Purchaser"
+
+#: app/views/modules/gestion_usuarios.view.php:18
+#: app/views/modules/gestion_usuarios.view.php:58
+msgid "Gestor"
+msgstr "Manager"
+
+#: app/views/modules/gestion_usuarios.view.php:19
+#: app/views/modules/gestion_usuarios.view.php:59
+msgid "Administrador"
+msgstr "Administrator"
+
+#: app/views/modules/gestion_usuarios.view.php:38
+msgid "Permisos"
+msgstr "Permissions"
+
+#: app/views/modules/gestion_usuarios.view.php:41
+msgid "Guardar"
+msgstr "Save"
+
+#: app/views/modules/index.view.php:9
+msgid "Cateor&iacute;as"
+msgstr "Categories"
+
+#: app/views/modules/index.view.php:18
+msgid "Ciudad"
+msgstr "City"
+
+#: app/views/modules/index.view.php:29
+msgid "Filtrar por fecha"
+msgstr "Filter by date"
+
+#: app/views/modules/index.view.php:31
+msgid "Todas las fechas"
+msgstr "All dates"
+
+#: app/views/modules/index.view.php:32
+msgid "Ma&ntilde;ana"
+msgstr "Tomorrow"
+
+#: app/views/modules/index.view.php:33
+msgid "Esta semana"
+msgstr "This week"
+
+#: app/views/modules/index.view.php:34
+msgid "Este fin de semana"
+msgstr "This weekend"
+
+#: app/views/modules/index.view.php:35
+msgid "Este mes"
+msgstr "This month"
+
+#: app/views/modules/index.view.php:40
+msgid "Buscar"
+msgstr "Search"
+
+#: app/views/modules/index.view.php:53
+msgid "Explora nuestros eventos"
+msgstr "Explore our events"
+
+#: app/views/modules/index.view.php:77
+msgid "Más información..."
+msgstr "More information..."
+
+#: app/views/modules/mensajes.view.php:5
+msgid "Mensajes"
+msgstr "Messages"
+
+#: app/views/modules/mensajes.view.php:6
+msgid "Nuevo mensaje"
+msgstr "New message"
+
+#: app/views/modules/mensajes.view.php:64
+#: app/views/modules/mensajes.view.php:87
+msgid "De"
+msgstr "From"
+
+#: app/views/modules/mensajes.view.php:68
+#: app/views/modules/mensajes.view.php:91
+msgid "Para"
+msgstr "To"
+
+#: app/views/modules/mensajes.view.php:76
+#: app/views/modules/mensajes.view.php:79
+msgid "Responder"
+msgstr "Respond"
+
+#: app/views/modules/mensajes.view.php:95
+msgid "Tema"
+msgstr "Subject"
+
+#: app/views/modules/mensajes.view.php:99
+msgid "Mensaje"
+msgstr "Message"
+
+#: app/views/modules/mensajes.view.php:102
+msgid "Enviar"
+msgstr "Send"
+
+#: app/views/modules/modal_logeado.view.php:3
+msgid "Necesitas estar registrado para comprar tus entradas"
+msgstr "You need to be registered to buy your tickets"
+
+#: app/views/modules/navegacion_administrador.view.php:9
+#: app/views/modules/navegacion_comprador.view.php:9
+#: app/views/modules/navegacion_gestor.view.php:9
+#: app/views/modules/navegacion_sin_logear.view.php:9
+msgid "Acerca de"
+msgstr "About"
+
+#: app/views/modules/navegacion_administrador.view.php:16
+#: app/views/modules/navegacion_comprador.view.php:16
+#: app/views/modules/navegacion_gestor.view.php:16
+msgid "Mi perfil"
+msgstr "My profile"
+
+#: app/views/modules/navegacion_administrador.view.php:17
+#: app/views/modules/navegacion_comprador.view.php:17
+#: app/views/modules/navegacion_gestor.view.php:17
+msgid "Mis mensajes"
+msgstr "My messages"
+
+#: app/views/modules/navegacion_administrador.view.php:18
+#: app/views/modules/navegacion_gestor.view.php:18
+msgid "Mis eventos"
+msgstr "My events"
+
+#: app/views/modules/navegacion_administrador.view.php:20
+msgid "Gesti&oacute;n usuarios"
+msgstr "User Management"
+
+#: app/views/modules/navegacion_administrador.view.php:21
+#: app/views/modules/navegacion_comprador.view.php:19
+#: app/views/modules/navegacion_gestor.view.php:20
+msgid "Salir"
+msgstr "Log out"
+
+#: app/views/modules/navegacion_sin_logear.view.php:12
+msgid "Acceder"
+msgstr "Log in"
+
+#: app/views/modules/nosotros.view.php:5
+msgid "Quienes somos"
+msgstr "About us"
+
+#: app/views/modules/nosotros.view.php:13
+msgid "Plataforma autogestionable"
+msgstr "Self-management platform"
+
+#: app/views/modules/nosotros.view.php:14
+msgid ""
+"Hemos desarrollado una soluci&oacuten tecnol&oacute;gica que simplifica la "
+"forma en que se organizan y gestionan los eventos online y se venden "
+"entradas."
+msgstr ""
+"We have developed a technological solution that simplifies the way in which "
+"online events are organized and managed and tickets are sold."
+
+#: app/views/modules/nosotros.view.php:24
+msgid "Escaparate de eventos"
+msgstr "Showcase of events"
+
+#: app/views/modules/nosotros.view.php:25
+#, php-format
+msgid ""
+"Adem&aacute;s, hemos construido una web de descubrimiento en la que siempre "
+"se encuentran eventos relevantes, con un proceso de compra &aacute;gil y "
+"100% seguro."
+msgstr ""
+"In addition, we have created a discovery website in which there are always "
+"relevant events, with an agile and 100% secure purchase process."
+
+#: app/views/modules/nosotros.view.php:35
+msgid "Somos nosotros"
+msgstr "We are"
+
+#: app/views/modules/nosotros.view.php:36
+msgid ""
+"Tocketea tambi&eacute;n somos las más de 60 personas que trabajamos por todo "
+"el mundo para hacer que todo funcione."
+msgstr ""
+"Tocketea is also the more than 60 people that work all over the world to "
+"make everything work."
+
+#: app/views/modules/perfil.view.php:12 app/views/modules/perfil.view.php:31
+msgid "Idioma"
+msgstr "Language"
+
+#: app/views/modules/perfil.view.php:16
+msgid "Actualizar datos de usuario"
+msgstr "Update user data"
+
+#: app/views/modules/perfil.view.php:19
+msgid "Actualizar im&aacute;gen"
+msgstr "Update image"
+
+#: app/views/modules/perfil.view.php:24
+msgid "Actualizar contrase&ntilde;a"
+msgstr "Update password"
+
+#: app/views/modules/perfil.view.php:39
+msgid "Guardar cambios"
+msgstr "Save changes"
+
+#~ msgid "Comprar entrada"
+#~ msgstr "Buy ticket"
